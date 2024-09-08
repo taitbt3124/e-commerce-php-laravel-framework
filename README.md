@@ -42,6 +42,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[64 Robots](https://64robots.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Own-Duck](https://taitbt-owner.co.uk)**
 - **[DevSquad](https://devsquad.com/hire-laravel-developers)**
 - **[Jump24](https://jump24.co.uk)**
 - **[Redberry](https://redberry.international/laravel/)**
